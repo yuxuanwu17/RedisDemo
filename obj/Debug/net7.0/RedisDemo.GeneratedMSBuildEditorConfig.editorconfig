@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RedisDemo
 build_property.RootNamespace = RedisDemo
-build_property.ProjectDir = /Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/
+build_property.ProjectDir = /Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo
+build_property.MSBuildProjectDirectory = /Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/App.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Pages/Counter.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Pages/FetchData.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Pages/Index.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Shared/SurveyPrompt.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/_Imports.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Shared/MainLayout.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-12yidoccxl
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Shared/NavMenu.razor]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1ejxe3df06
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Pages/Error.cshtml]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/RedisDemo/Pages/_Host.cshtml]
+[/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/RedisDemo/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
